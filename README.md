@@ -14,9 +14,6 @@ Feel free to reach out for collaboration, projects, or tech discussions. 🚀
 * 📫 **Reach me at:** [yuvankgoyal875@gmail.com](mailto:yuvankgoyal875@gmail.com)
 * ⚡ **Fun fact:** I enjoy building tools that automate repetitive developer tasks
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yuvank123&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuvank_goyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvank-goyal-4b2797321) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvankgoyal875@gmail.com) 
 
@@ -33,6 +30,8 @@ Feel free to reach out for collaboration, projects, or tech discussions. 🚀
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yuvank123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yuvank123&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=yuvank123&icon=0&color=0)](https://visitcount.itsvg.in)
 
