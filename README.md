@@ -27,6 +27,11 @@ Feel free to reach out for collaboration, projects, or tech discussions. 🚀
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yuvank123&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
