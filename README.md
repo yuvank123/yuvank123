@@ -14,6 +14,9 @@ Feel free to reach out for collaboration, projects, or tech discussions. 🚀
 * 📫 **Reach me at:** [yuvankgoyal875@gmail.com](mailto:yuvankgoyal875@gmail.com)
 * ⚡ **Fun fact:** I enjoy building tools that automate repetitive developer tasks
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yuvank123&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuvank_goyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvank-goyal-4b2797321) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvankgoyal875@gmail.com) 
 
@@ -23,14 +26,6 @@ Feel free to reach out for collaboration, projects, or tech discussions. 🚀
 ![](https://github-readme-stats.vercel.app/api?username=yuvank123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=yuvank123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvank123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yuvank123&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
