@@ -1,3 +1,18 @@
+# 💫 Hi 👋, I'm Yuvank Goyal
+
+**Computer Science Student | Full-Stack Developer | Backend & Systems Enthusiast from India**
+
+📧 **Email:** [yuvankgoyal875@gmail.com](mailto:yuvankgoyal875@gmail.com)
+Feel free to reach out for collaboration, projects, or tech discussions. 🚀
+
+* 🎓 **Currently:** Computer Science student exploring software development and system design
+* 💼 **Experience:** Worked with **Infinoid Technologies Pvt Ltd** on software development projects and backend systems
+* 🔭 **Currently working on:** Backend tools, API testing systems, and developer automation tools
+* 🌱 **Currently learning:** Advanced backend architecture, scalable systems, and API contract validation
+* 🤝 **Looking to collaborate on:** Open-source projects, developer tools, and full-stack web applications
+* 💬 **Ask me about:** Node.js, React, APIs, backend development, and debugging
+* 📫 **Reach me at:** [yuvankgoyal875@gmail.com](mailto:yuvankgoyal875@gmail.com)
+* ⚡ **Fun fact:** I enjoy building tools that automate repetitive developer tasks
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuvank_goyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvank-goyal-4b2797321) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvankgoyal875@gmail.com) 
