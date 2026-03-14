@@ -6,7 +6,7 @@
 Feel free to reach out for collaboration, projects, or tech discussions. 🚀
 
 * 🎓 **Currently:** Computer Science student exploring software development and system design
-* 💼 **Experience:** Worked with **Infinoid Technologies Pvt Ltd** on software development projects and backend systems
+* 💼 **Experience:** Intern At **SecuAI** and Also Worked with **Infinoid Technologies Pvt Ltd** on software development projects and backend systems
 * 🔭 **Currently working on:** Backend tools, API testing systems, and developer automation tools
 * 🌱 **Currently learning:** Advanced backend architecture, scalable systems, and API contract validation
 * 🤝 **Looking to collaborate on:** Open-source projects, developer tools, and full-stack web applications
